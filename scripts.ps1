@@ -6,8 +6,8 @@ Compress-Archive -Path "D:\Tutorials\dotnet\user-api\UserApi\bin\Release\net7.0\
 "D:\Tutorials\dotnet\user-api\UserApi"
 
 {
-    "clientId": "307e3361-46ee-4dfe-ba9b-4e8c8142baba",
-    "clientSecret": "-3U8Q~e4IGBNUJQkKkKw5M2Mcew.hxoxdx4EvcoN",
+    "clientId": "182fc8d3-c2d4-407a-b5c5-55103317737a",
+    "clientSecret": "cR28Q~9McaFikMjvdVCaTf8GkhppQhHNBSTBjcGf",
     "subscriptionId": "35b269d2-7c5c-4f36-abf1-56099fd97991",
     "tenantId": "1df39095-a0f4-4b9f-abcf-e96d3abd9282",
     "activeDirectoryEndpointUrl": "https://login.microsoftonline.com",
