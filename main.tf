@@ -11,7 +11,7 @@ resource "azurerm_service_plan" "terraform_app_service_plan" {
   sku_name            = "F1"
 }
 
-resource "azurerm_app_service" "terraform_app_service" {
+resource "azurerm_linux_web_app" "terraform_app_service" {
   name                = "appservice06182023"
   location            = azurerm_resource_group.terraform_app_service_rg.location
   resource_group_name = azurerm_resource_group.terraform_app_service_rg.name
