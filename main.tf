@@ -18,7 +18,7 @@ resource "azurerm_linux_web_app" "terraform_app_service" {
   service_plan_id     = azurerm_service_plan.terraform_app_service_plan.id
   site_config {
     application_stack {
-      dotnet_version = 7.0
+      dotnet_version = 6.0
     }
   }
 
